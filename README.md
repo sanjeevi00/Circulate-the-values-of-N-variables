@@ -6,14 +6,16 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+define the calcualte value 
 ### Step 2: 
-### Step 3: 
 Get the value from the user for the number of rotation
-### Step 4: 
+### Step 3: 
 Using the slicing concept rotate the list
 
+### Step 4: 
+print the values
 ### Step 5: 
-### Step 6: 
+end the program
 ## Program:
 ```
 #Program to circulate N values.
@@ -30,3 +32,4 @@ def circulate():
 ![image](https://user-images.githubusercontent.com/121484976/227839234-48260868-104d-4722-a509-9ec1d7d84e3c.png)
 
 ## Result:
+The program is executed sucessfully!
