@@ -29,7 +29,9 @@ def circulate():
 
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/121484976/227839234-48260868-104d-4722-a509-9ec1d7d84e3c.png)
+
+![image](https://github.com/sanjeevi00/Circulate-the-values-of-N-variables/assets/121484976/3b87879c-fcf5-4297-8963-ccdd8855df16)
+
 
 ## Result:
 The program is executed sucessfully!
